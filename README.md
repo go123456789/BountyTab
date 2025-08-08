@@ -76,7 +76,7 @@
     cursor: pointer;
     transition: transform 0.3s ease;
     border: 4px solid #00bfff;
-    border-radius: 10px;
+    border-radius: 5px;
     box-shadow: 0 0 15px #00bfff88;
     background: rgba(0, 0, 50, 0.6);
   }
