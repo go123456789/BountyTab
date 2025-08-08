@@ -138,6 +138,7 @@
 </style>
 </head>
 <body>
+<video id="video" controls playsinline></video>
 
 <div class="channel-list">
   <img
@@ -150,7 +151,6 @@
   />
 </div>
 
-<video id="video" controls playsinline></video>
 
 <footer>
   <span>Powered by BountyTab</span>
