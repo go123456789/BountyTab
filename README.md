@@ -1,4 +1,4 @@
-# BountyTab
+# BountyTab 
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -71,6 +71,16 @@
     margin: 30px auto 0;
     max-width: 280px;
   }
+  video {
+    margin: 30px auto 0;
+    width: 90%;
+    max-width: 900px;
+    
+    border-radius: 20px;
+    background: black;
+    box-shadow: 0 0 25px #00bfffcc;
+  }
+
 
   .channel-logo {
     cursor: pointer;
@@ -86,15 +96,6 @@
     box-shadow: 0 0 25px #00e0ffcc;
   }
 
-  video {
-    margin: 30px auto 0;
-    width: 90%;
-    max-width: 900px;
-    
-    border-radius: 20px;
-    background: black;
-    box-shadow: 0 0 25px #00bfffcc;
-  }
 
   footer {
     margin-top: auto;
