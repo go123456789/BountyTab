@@ -90,7 +90,7 @@
     margin: 30px auto 0;
     width: 90%;
     max-width: 900px;
-    border: 6px solid #00bfff;
+    
     border-radius: 20px;
     background: black;
     box-shadow: 0 0 25px #00bfffcc;
