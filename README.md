@@ -139,7 +139,7 @@
 <body>
 
 <header>
-  <img class="doraemon-ears" src="https://toppng.com/uploads/preview/doraemon-transparent-friend-png-graphic-black-and-white-doraemon-11563244475bldfliyrxr.png" alt="Doraemon Ears" />
+  <img class="doraemon-ears" src="https://i.postimg.cc/x8WfbK1j/photo-6102754413283233393-x.jpg" alt="Doraemon Ears" />
   <h1>📺 Doraemon TV</h1>
   <p class="subtitle">Made for Doraemon Fans</p>
   <p>Click the Disney Channel logo below to start watching!</p>
