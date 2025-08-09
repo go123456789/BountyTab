@@ -68,8 +68,8 @@
   }
 
   .channel-list {
-    margin: 30px auto 0;
-    max-width: 280px;
+    margin: 15px auto 0;
+    max-width: 160px;
   }
   video {
     margin: 30px auto 0;
