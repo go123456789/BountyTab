@@ -155,7 +155,7 @@
   <span>Powered by BountyTab</span>
   <button
     class="telegram-btn"
-    onclick="window.open('https://web.telegram.org/k/#-2640531882')"
+    onclick="window.open('https://web.telegram.org/k/#@BountyTab')"
     aria-label="Join BountyTab Telegram Channel"
   >
     <svg class="telegram-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
