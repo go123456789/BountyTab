@@ -170,7 +170,7 @@
 <script>
 function playChannel() {
   const video = document.getElementById('video');
-  const videoSrc = 'https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/video_0.m3u8';
+  const videoSrc = 'https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/stream_0.m3u8';
 
   if (Hls.isSupported()) {
     const hls = new Hls();
